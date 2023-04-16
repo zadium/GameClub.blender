@@ -8,6 +8,10 @@ Modee Parlez @ discoverygrid.net
 
 ## Textures
 
-Resources
+## Using
+
+I use blender 2.79
+
+## Resources
 
 [Sketchup Texture Club](https://www.sketchuptextureclub.com)
