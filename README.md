@@ -1,6 +1,6 @@
 # GameClub
 
-Game Club for board games like Chess
+Game Club building for board games like Chess
 
 ## Thanks To
 
@@ -10,7 +10,13 @@ Modee Parlez @ discoverygrid.net
 
 ## Using
 
-I use blender 2.79
+I use blender 3.4
+
+## Licenese
+
+GPL
+
+This project may be freely copied and modified so long as credit of creator remains unmodified.
 
 ## Resources
 
