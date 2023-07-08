@@ -4,17 +4,15 @@ Game Club building for board games like Chess
 
 ## Thanks To
 
-Modee Parlez @ discoverygrid.net
-
-## Textures
+Modee Parlez @ discoverygrid.net my teacher Blender and building in opensim virtual world
 
 ## Using
 
-I use blender 3.4
+Blender 3.4
 
 ## Licenese
 
-GPL
+MPL-2.0 license
 
 This project may be freely copied and modified so long as credit of creator remains unmodified.
 
