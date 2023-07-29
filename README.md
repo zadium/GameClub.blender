@@ -2,6 +2,8 @@
 
 Game Club building for board games like Chess
 
+![Screenshot](https://github.com/zadium/GameClub.blender/blob/main/GameClubScreenshot.png)
+
 ## Thanks To
 
 Modee Parlez @ discoverygrid.net my teacher Blender and building in opensim virtual world
