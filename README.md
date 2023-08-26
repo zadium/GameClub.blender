@@ -12,9 +12,11 @@ Modee Parlez @ discoverygrid.net my teacher Blender and building in opensim virt
 
 Blender 3.4
 
-## Licenese
+## License (CC BY-NC-SA 4.0)
 
-MPL-2.0 license
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 This project may be freely copied and modified so long as credit of creator remains unmodified.
 
