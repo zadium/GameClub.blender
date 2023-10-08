@@ -22,4 +22,3 @@ This project may be freely copied and modified so long as credit of creator rema
 
 ## Resources
 
-[Sketchup Texture Club](https://www.sketchuptextureclub.com)
