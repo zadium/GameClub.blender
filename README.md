@@ -19,6 +19,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 This project may be freely copied and modified so long as credit of creator remains unmodified.
+You can't sale it, only redistribute free in your grid.
 
 ## Resources
 
